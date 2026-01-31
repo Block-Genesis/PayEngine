@@ -50,8 +50,13 @@ Individual developers exploring payment system architecture
 
 Academic researchers in fintech and cybersecurity
 
-Financial institutions prototyping new payment solutions
-
 Students learning about secure transaction processing
 
 License: Apache 2.0 - Free for educational, research, and commercial use with proper attribution.
+
+⚠️ Disclaimer
+This project is an open-source implementation of payment system core logic for educational research purposes only:
+❌ Not for production use
+❌ Does not process real monetary transactions
+❌ Author assumes no liability for usage
+✅ Solely for studying blockchain and payment system principles
