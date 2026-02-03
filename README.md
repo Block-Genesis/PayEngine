@@ -1,4 +1,4 @@
-PayEngine - Secure Payment System Core
+PayEngine - Payment System Core
 
 PayEngine is an open-source C++ implementation of the core logic for a payment system, designed for financial institutions and developers seeking to build secure, high-performance payment solutions.
 
